@@ -9,3 +9,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BlackDaddy336)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sashamynzul@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alexander-mynzul-376507322)
+
+#### Resume:
+[![My Resume](https://img.shields.io/badge/View%20My%20Resume-PDF-green?style=for-the-badge&logo=adobe)](MyResume.pdf)
