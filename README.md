@@ -11,4 +11,4 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alexander-mynzul-376507322)
 
 #### Resume:
-[![My Resume](https://img.shields.io/badge/View%20My%20Resume-PDF-green?style=for-the-badge&logo=adobe)](MyResume.pdf)
+[![My Resume](https://img.shields.io/badge/View%20My%20Resume-PDF-green?style=for-the-badge&logo=adobe)](Resume.pdf)
